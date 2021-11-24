@@ -65,7 +65,7 @@ openvpn
 ```
 Admin password
 ```
-<YourSpecialPasswordHere>@
+<YourSpecialPasswordHere>
 ```
 
 VPN Client
