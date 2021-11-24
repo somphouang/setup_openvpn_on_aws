@@ -15,9 +15,10 @@ Download can be found [here](https://openvpn.net/community-downloads/)
 
 ## Get Started
 
-Log into the Server using SSH with `<YourCompanyName>.ppk` AWS key
-ec2-user@<YourEC2_ElasticIP>
-
+Log into the Server using SSH with `<YourCompanyName>.ppk` or `<YourCompanyName>.pem` AWS key used when provisioned the new EC2
+```
+ubuntu@<YourEC2_ElasticIP>
+```
 
 Download instructions are derived from page below:
 https://openvpn.net/download-open-vpn/
